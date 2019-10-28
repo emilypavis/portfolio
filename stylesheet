@@ -1,0 +1,31 @@
+a {
+	color: #FF1493;
+}
+a:hover {
+	color: #4B0082;
+}
+.header {
+	font-family: Arial Black;
+	text-align: center;
+	border: solid 10px #FF1493;
+}
+.social {
+	font-family: Arial Black;
+}
+.intro {
+	text-align: center;
+	font-family: Courier New;
+
+}
+.hotel {
+	display: block;
+	margin-left: auto;
+  	margin-right: auto;
+  	width: 50%;
+  	border: solid 10px #FF1493;
+}
+.caption {
+	text-align: center;
+	font-family: Courier New;
+	border: solid 10px #FF1493;
+}
